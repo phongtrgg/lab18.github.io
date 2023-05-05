@@ -1,0 +1,33 @@
+.footer-a {
+  display: flex;
+}
+ul {
+  display: flex;
+  color: rgb(136, 147, 147);
+}
+li {
+  padding-right: 20px;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 10% 3% 3% 3%;
+}
+a:last-child {
+}
+#carouselExampleDark {
+  position: relative;
+}
+.carousel-inner p,
+.carousel-inner h5 {
+  color: white;
+}
+.carousel-inner h5 {
+  font-size: 36px;
+}
+.fix-btn {
+  padding-bottom: 10%;
+}
+.carousel-indicators {
+  margin-bottom: 8%;
+}
